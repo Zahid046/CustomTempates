@@ -8,6 +8,8 @@ class CustomBottomNavBar extends StatefulWidget {
   final bool isClicked1;
   final bool isClicked2;
   final bool isClicked3;
+  // final isClicked4;
+  // final isClicked5;
   //final Icon;
   CustomBottomNavBar({
     Key? key,
@@ -15,6 +17,8 @@ class CustomBottomNavBar extends StatefulWidget {
     required this.isClicked1,
     required this.isClicked2,
     required this.isClicked3,
+    // this.isClicked4,
+    // this.isClicked5,
     //this.Icon,
   }) : super(key: key);
 
